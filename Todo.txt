@@ -1,0 +1,14 @@
+1. How to Create JS Function
+2. How to Call JS Function
+3. How to Create & Call JS Arrow Function
+4. How to Create & Call JS IIF Function
+5. How to Create & Call JS Anonymous Function
+6. Function Parameter
+7. Function Default Parameter
+8. Function Rest Parameter/ Spreed Operator
+9. Function Call Back
+10. Function Return
+11. Higher Order Function
+12. Async Await Function / High Computation Function
+13. JS Inline Function
+14. Recursive Function
